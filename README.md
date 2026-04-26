@@ -16,6 +16,6 @@ Dashboard ini menampilkan analisis destinasi wisata di 5 kota Indonesia.
 
 ## 📷 Preview
 <img width="1123" height="751" alt="tampilan powerbi 2" src="https://github.com/user-attachments/assets/8cf351a4-753e-4397-88ad-c47f918f23c9" />
-<img width="1124" height="750" alt="tampilan powerbi 1" src="https://github.com/user-attachments/assets/d053184d-a63b-41bd-ae3e-4e661db32ca8" />
+<img width="1127" height="755" alt="tampilan powerbi 1" src="https://github.com/user-attachments/assets/ffe6a2c5-0c3e-4828-9c77-a08e70f50e99" />
 
 
